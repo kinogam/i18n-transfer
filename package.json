@@ -1,0 +1,29 @@
+{
+  "name": "i18n-transfer",
+  "version": "1.0.0",
+  "description": "make i18n json into a csv, or seperate the csv file into multiple i18n json",
+  "main": "run.js",
+  "dependencies": {
+    "csv2json": "^1.0.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinogam/i18n-transfer.git"
+  },
+  "keywords": [
+    "i18n",
+    "json",
+    "csv"
+  ],
+  "author": "kinogam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinogam/i18n-transfer/issues"
+  },
+  "homepage": "https://github.com/kinogam/i18n-transfer#readme"
+}
